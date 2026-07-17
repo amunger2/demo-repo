@@ -1,0 +1,11 @@
+
+HOMEPAGE
+========
+
+Welcome to Our Webste
+
+This is the home page for our project
+
+---
+FOOTER
+Contact: info@example.com
